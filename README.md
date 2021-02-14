@@ -3,6 +3,11 @@ this repo holds some experiments I did with [neat-python](https://pypi.org/proje
 
 most of what you see done with NEAT, is from the [examples-section in the repo](https://github.com/CodeReclaimers/neat-python/tree/master/examples)
 
+
+## animation
+![animation](animation.gif)
+
+
 ## requirements:
 python3
 
