@@ -5,7 +5,7 @@ most of what you see done with NEAT, is from the [examples-section in the repo](
 
 
 ## animation
-![animation](animation.gif)
+![animation](neat.gif)
 
 
 ## requirements:
