@@ -6,7 +6,7 @@ most of what you see done with NEAT, is from the [examples-section in the repo](
 
 ## animation
 ![animation](neat.gif)
-*im sorry collerblind ppl, point set 1 and two are in red and green*
+*im sorry collerblind ppl, point set one and point set two are in red and green*
 
 ## requirements:
 python3
